@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb.kidevops.shop
+REDIS_HOST: redis.kidevops.shop
+CATALOGUE_HOST: catalogue.kidevops.shop
+CART_HOST: cart.kidevops.shop
+MYSQL_HOST: mysql.kidevops.shop
+RABBITMQ_HOST: rabbitmq.kidevops.shop
+PAYMENT_HOST: payment.kidevops.shop
+USER_HOST: user.kidevops.shop
+SHIPPING_HOST: shipping.kidevops.shop
+
+
+
